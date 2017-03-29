@@ -1,5 +1,5 @@
 {
-    "name": "tuupola/slim-image-resize",
+    "name": "is-blackhole/slim-image-resize",
     "type": "library",
     "description": "Image Resize Middleware for Slim Framework",
     "keywords": ["slim", "middleware", "image"],
